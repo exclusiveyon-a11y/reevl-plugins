@@ -1,0 +1,21 @@
+{
+  "name": "reevl",
+  "owner": {
+    "name": "Reevl",
+    "url": "https://reevl.co.kr"
+  },
+  "metadata": {
+    "description": "리블이 만드는 한국 부동산 데이터 플러그인",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "reevl",
+      "source": "./reevl",
+      "description": "전국 아파트 45,000여 개의 실거래 시세·전세가율·거래량·입지 점수와 리블 AI 가격 예측을 조회합니다. 공공데이터 기반이며 출처와 갱신일을 함께 반환합니다.",
+      "category": "data",
+      "keywords": ["real-estate", "korea", "부동산", "아파트", "실거래가"],
+      "homepage": "https://reevl.co.kr/mcp"
+    }
+  ]
+}

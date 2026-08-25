@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reevl": {
+      "type": "http",
+      "url": "https://reevl.co.kr/api/mcp"
+    }
+  }
+}
